@@ -1,6 +1,6 @@
 ## Github User Finder
 
-We can find any github user from this app. It is built in React. 
+We can search for a github user from here. It is built in React. 
 
 ### Demo
 
